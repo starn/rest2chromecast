@@ -25,7 +25,7 @@ How to use
  
  for developper
  ==============
- - git clone my github
+ - git clone https://github.com/starn/rest2chromecast.git
  - mvn clean install
  => done :)
  
