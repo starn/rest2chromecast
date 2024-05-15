@@ -1,3 +1,6 @@
+/!\ Proof of concept - does not work anymore
+
+
 rest2chromecast
 ===============
 
